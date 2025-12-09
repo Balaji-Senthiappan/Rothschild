@@ -1,0 +1,25 @@
+Transition Phases	Key Deliverables	Purpose
+Quality Gate 1 (End of Planning phase)	Transition Plan Document	This document provides an overview of Hexaware’s overall approach to transitioning. It also describes the overall objectives and guiding principles.
+	KT Knowledge Map	 Captures all SME details and knowledge areas.
+	Transition Schedule (Microsoft Project Plan)	Captures the end-to-end activities with milestones owners and tentative timelines. 
+	Transition Responsibility Document	Captures all responsibility matrices of resources deployed during respective phases.
+	Quality Index Checklist	Measures the compliance index through weightage and rating and view the overall health status of the transition.
+Quality Gate 2 (End of Knowledge Transfer Phase)	Systems overview Document	Captures the tools and systems across infrastructure and application estate.
+	High-Level Technical Specification	Provides a high-level technical view of the infrastructure and application environment.
+	Run Book	Run book containing all existing SOPs, KEDB, process, alert, and incident triaging flows.
+	Playback PowerPoint Presentation	Playback to the current R&Co staff on the knowledge gained during this phase to get their sign-off.
+	Knowledge Repository	Creation of Knowledge repository.
+	Updated Quality Index Checklist	Measuring the compliance index through weightage and rating and have an overall health status of the phase.
+Quality gate 3 (End of Forward Shadow Support phase)	Systems Overview Document (Final)	Capturing tacit knowledge; internal review.
+	Transition KPI Statistics Report	Documenting the KPIs achieved during this stage of the transition and build improvement plans.
+	Playback PowerPoint presentation	Required to playback our understanding after the Shadow Support phase.
+	Updated Quality Index Checklist	Measuring the compliance index through weightage and rating and have an overall health status of the phase.
+Quality Gate 4 (End of Reverse Shadow) &
+Quality Gate 5
+(End of Overall Transition)	Transition Phase End Closure Report	Details of metrics, best practices, lessons learned, and summary information with respect to transition.
+	Transition KPI Statistics Report	To generate a report in which the KPIs achieved are documented over the transition period.
+	Updated Quality Index Checklist	Measuring the compliance index through weightage and rating and have an overall health status of the phase.
+	Issue Management Tracker	Logging and tracking issues in the complete transition cycle.
+	Risk Management Tracker	Logging and tracking risks in the complete transition cycle and updating the mitigation procedures.
+	Runbook Sign-off	Getting sign-off on the runbook from R&Co.
+	Playback PowerPoint presentation	Required to playback the understanding after the end of the transition phase and before cutover to BAU.

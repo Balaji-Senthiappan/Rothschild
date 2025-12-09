@@ -1,0 +1,38 @@
+Transformation	Timeline	Bundle	Type
+Tensai Ops Insight Dashboard	Transition	B3	Hexaware proposed & Priced
+JML Automation	Transition	b2	Hexaware proposed & Priced
+3rd party Apps patching - Patch My PC	Transition	B2	Hexaware proposed & Priced
+AI Call Summarization	Transition	B2	Hexaware proposed & Priced
+HappySignals - Experience Measurement	Transition	B2	Hexaware proposed & Priced
+ACD/IVR with sentiment analytics - AWS connect	Transition	B2	Hexaware proposed & Priced
+AI Productivity Tools - KB System, Echo Docs, Ticket Analyzer	Transition	B1	Hexaware proposed & Priced
+ELK Observability and Event correlation	Transition	B1	Hexaware proposed & Priced
+Container Platform	Year 1	B3	Priority Requested Transformation
+FinOps	Year 1	B3	Other Requested Transformation
+Enhance CyberArk PAM	Year 1	B2	Priority Requested Transformation
+Global DDoS and WAF	Year 1	B2	Other Requested Transformation
+Improve DRA & NexThink	Transition to Year 1	B2	Other Requested Transformation
+Vending Machines	Transition to Year 1	B2	Hexaware proposed & Priced
+Move to Modern Device Management	Year 1	B2	Priority Requested Transformation
+Network Segmentation	Year 1	B2	Priority Requested Transformation
+Agentic RCA	Transition	B1	Hexaware proposed & Priced
+User Experience Management Framework	transition	B1	Hexaware proposed & Priced
+On Prem to cloud migration	Year 1 to year 2	B3	Other Requested Transformation
+Everything as a Code	Year 1	B3	Other Requested Transformation
+Deployed Unified Observability	Year 1	B2	Other Requested Transformation
+Rubrik Backup and Recovery	Year 1 to year 2	B2	Other Requested Transformation
+ServiceNow Enhancements	Year 1	B2	Other Requested Transformation
+Mac Support	Year 1	B2	Other Requested Transformation
+Centralize SSL Certificate Management	Year 1	B2	Other Requested Transformation
+Remove VPN	Year 1	B1	Priority Requested Transformation
+SD WAN Replacement	Year 1	B1	Priority Requested Transformation
+WiFi Referesh	Year 1	B1	Other Requested Transformation
+Migrating DNS/DHCP/IPAM services to Infoblox	Year 1	B1	Other Requested Transformation
+Migrate Business Apps to PaaS or SaaS	Year 2 to Year 3-5	B3	Other Requested Transformation
+Replace Leapfile File Transfer	Year 2 to Year 3-5	B2	Other Requested Transformation
+Spacelift & Ansbile for IaC	Year 2 to Year 3-5	B2	Other Requested Transformation
+BCP Resilient Identity Platform	Year 2	B2	Other Requested Transformation
+IT Crisis Management	Year 2	B2	Other Requested Transformation
+Passwordless Authentication	Year 2	B2	Other Requested Transformation
+Replace VxRail	Year 3-5	B2	Other Requested Transformation
+Decommission File and printer servers	Year 2 to Year 3-5	B2	Other Requested Transformation
