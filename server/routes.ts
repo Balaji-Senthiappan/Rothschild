@@ -3,9 +3,12 @@ import { createServer, type Server } from "http";
 import * as fs from "fs";
 import * as path from "path";
 
+
 const ADMIN_USERNAME = "Admin@R&Co";
 const ADMIN_PASSWORD = "Hexaware4R&Co";
-const LOGIN_CSV_PATH = path.join(process.cwd(), "data", "logins.csv");
+const LOGIN_CSV_PATH = process.env.HOME 
+  ? path.join(process.env.HOME, "site", "data", "logins.csv")
+  : path.join(process.cwd(), "data", "logins.csv");
 
 function ensureDataDirectory() {
   const dataDir = path.dirname(LOGIN_CSV_PATH);
